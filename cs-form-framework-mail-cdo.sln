@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-form-framework-mail-cdo", "cs-form-framework-mail-cdo.csproj", "{8EBE412D-C272-4D38-B89D-460796D5F7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBE412D-C272-4D38-B89D-460796D5F7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBE412D-C272-4D38-B89D-460796D5F7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBE412D-C272-4D38-B89D-460796D5F7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBE412D-C272-4D38-B89D-460796D5F7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507B1D5C-E98C-4195-B6E7-35988DA2B9FD}
+	EndGlobalSection
+EndGlobal
