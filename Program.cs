@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cs_form_framework_mail_cdo
+namespace cs_form_mail_cdo
 {
     static class Program
     {
