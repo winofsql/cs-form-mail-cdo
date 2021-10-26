@@ -1,5 +1,5 @@
 ﻿
-namespace cs_form_framework_mail_cdo
+namespace cs_form_mail_cdo
 {
     partial class Form1
     {
